@@ -7,7 +7,7 @@
 
 Responsive Personal Portfolio Website Built using HTML, CSS and JavaScript.
 
-[![Portfolio Demo](https://github.com/XevenTech/projects_snapshots/blob/main/Patrix/demo.png?raw=true "Portfolio Demo")](https://xeventech.github.io/Patrix/)
+[![Portfolio Demo](https://github.com/XevenTech/projects_snapshots/blob/main/patrix/demo.png?raw=true "Portfolio Demo")](https://xeventech.github.io/Patrix/)
 
 ## Prerequisites
 
@@ -33,7 +33,7 @@ git clone https://github.com/xeventech/Patrix.git
 
 ## ▶️ Watch Video Tutorial
 
-[![Watch Video](https://github.com/XevenTech/projects_snapshots/blob/main/Patrix/thumbnail.png?raw=true "Play")](https://youtu.be/DPt00XbqYzg)
+[![Watch Video](https://github.com/XevenTech/projects_snapshots/blob/main/patrix/thumbnail.png?raw=true "Play")](https://youtu.be/DPt00XbqYzg)
 
 
 ## ❤️ Thank you for reading, here's a cat:
